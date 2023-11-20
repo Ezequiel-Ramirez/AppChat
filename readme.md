@@ -1,4 +1,6 @@
 # App de Chat
+![image](https://github.com/Ezequiel-Ramirez/AppChat/assets/78183135/6dbbc820-60a8-48f4-afa6-817d914853ec)
+![image](https://github.com/Ezequiel-Ramirez/AppChat/assets/78183135/3dc42bda-2560-4107-9cbe-3d1e84228961)
 
 Una aplicación simple de chat desarrollada con React y Socket.IO.
 
